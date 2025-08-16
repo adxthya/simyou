@@ -31,7 +31,10 @@ This project showcases the power of combining AI with user-centric design to cre
 
 ## Link to product walkthrough
 
+[Live Demo](https://sim-you.vercel.app/profile)
 
+> **Info:**  
+> The backend of the project is hosted in Render. Since the project is hosted in free tier, the project spins down. So it may take time to fetch data from the backend.
 
 
 
